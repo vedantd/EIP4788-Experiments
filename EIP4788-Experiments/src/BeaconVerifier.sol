@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "./mocks/MockEIP4788.sol";
+import "./src/MockEIP4788.sol";
 import "openzeppelin-contracts/contracts/utils/cryptography/MerkleProof.sol";
 
 contract BeaconVerifier {
