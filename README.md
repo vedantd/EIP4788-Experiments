@@ -9,7 +9,7 @@ EIP4788-Experiments is an experimental testing ground for exploring the capabili
 3. **NetworkHealth**: Monitor overall network health metrics
 4. **SlashingDetector**: Detect and verify slashing events
 5. **AttestationPerformance**: Verify validator attestation performance
-6. ... (Add more experiments as you develop them)
+
 
 
 ## Running Experiments
