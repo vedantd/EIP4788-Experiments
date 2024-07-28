@@ -1,0 +1,3 @@
+[submodule "EIP4788-Experiments/lib/forge-std"]
+	path = EIP4788-Experiments/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
